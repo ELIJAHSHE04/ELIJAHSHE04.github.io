@@ -64,7 +64,7 @@ Important: `index.html` must stay in the root folder.
 
 ## Public Links
 
-- GitHub: https://github.com/Elijah0413
+- GitHub: https://github.com/ElijahShe04
 - LinkedIn: https://www.linkedin.com/in/elijah-she-34a008299/
 - Portfolio: https://elijah0413.github.io/elijahshe0413.github.io/
 - Email: elijahsheyu@graduate.utm.my
